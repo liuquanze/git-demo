@@ -10,4 +10,5 @@ hello Git!
 hello Git!
 hello Git!
 hello Git!
-master changes!
+
+both changes!
